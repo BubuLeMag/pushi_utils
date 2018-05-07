@@ -1,6 +1,7 @@
 # pushi_utils
 
 If you have problems with a PUSHI masternode, use :
+
 wget -qO - https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_pushi_mn.sh | bash
 
 It will guide you to the most common problems.
