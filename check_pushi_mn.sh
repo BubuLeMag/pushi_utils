@@ -5,10 +5,10 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 CONFIG_FILE='pushi.conf'
-CONFIG_FOLDER='/home/pushi/.pushicore/'
+CONFIG_FOLDER='/root/pushi/.pushicore/'
 COIN_DAEMON='pushid'
 COIN_CLI='pushi-cli'
-COIN_PATH='/home/pushi/'
+COIN_PATH='/root/pushi/'
 COIN_GITHUB_REPO='pushiplay/pushi'
 COIN_NAME='Pushi'
 COIN_PORT=9847
