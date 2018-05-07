@@ -143,5 +143,6 @@ check_daemon_running
 check_files_version
 check_mnsync
 check_blockchain
+check_crontab
 echo -e "${NONE}If you have at least 15 confirmations on the 10000 PUSHI transaction you may start your MN.${NONE}";
 tput sgr0
