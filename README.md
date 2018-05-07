@@ -8,3 +8,6 @@ It will guide you to the most common problems.
 
 If you still have problems, don't hesitate to go to Discord : https://discord.gg/9cVmya9
 Copy-paste the result of the script, so we know what work.
+
+If it helps you, here is my PUSHI adress PNUavDy9Zwoxx1ithtWrit6KhjF4WEzjjn
+:)
