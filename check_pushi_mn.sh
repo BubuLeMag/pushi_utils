@@ -26,7 +26,7 @@ NONE='\033[0m'
 
 function check_conf_file() {
 	echo -e "${NONE}[1/${MAX}] Checking if masternode is enabled in the config file.${NONE}";
-	MASTERNODE_ENABLED=$(grep -m 1 'masternode=1' $CONFIG_FOLDER$CONFIG_FILE) > /dev/null 2>&1
+	MASTERNODE_ENABLED=$(grep -m 1 'masternode=1' $CONFIG_FOLDER$CONFIG_FILE 2> /dev/null)
 	if [ $MASTERNODE_ENABLED ]; then
 		echo -e "${GREEN} * Ok, you have masternode=1 in the config file.${NONE}"
 	else
