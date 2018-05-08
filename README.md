@@ -5,9 +5,13 @@ If you have problems with a PUSHI masternode, use :
 wget -qO - https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_pushi_mn.sh | bash
 
 Or (might be easier if you have to run the script multiple times) :
+
 wget https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_pushi_mn.sh
+
 chmod 755 check_pushi_mn.sh
+
 ./check_pushi_mn.sh
+
 
 It will guide you to the most common problems.
 
