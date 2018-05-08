@@ -6,7 +6,7 @@ wget -qO - https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_
 
 Or (might be easier if you have to run the script multiple times) :
 
-wget https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_pushi_mn.sh\
+wget https://raw.githubusercontent.com/BubuLeMag/pushi_utils/master/check_pushi_mn.sh \
 chmod 755 check_pushi_mn.sh\
 ./check_pushi_mn.sh
 
